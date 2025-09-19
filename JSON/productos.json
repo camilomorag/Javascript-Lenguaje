@@ -1,0 +1,38 @@
+{
+  "esika": [
+    {
+      "nombre": "Crema Hidratante Nutritiva",
+      "precio": 25000,
+      "categoria": "Cuidado Facial"
+    },
+    {
+      "nombre": "Perfume Rosas Eternas",
+      "precio": 48000,
+      "categoria": "Fragancias"
+    }
+  ],
+  "yanbal": [
+    {
+      "nombre": "Bloqueador Solar SPF 50",
+      "precio": 32000,
+      "categoria": "Cuidado Facial"
+    },
+    {
+      "nombre": "Colonia Brisa Marina",
+      "precio": 46000,
+      "categoria": "Fragancias"
+    }
+  ],
+  "avon": [
+    {
+      "nombre": "Labial Matte Larga Duración",
+      "precio": 18000,
+      "categoria": "Maquillaje"
+    },
+    {
+      "nombre": "Crema Antiarrugas Nocturna",
+      "precio": 35000,
+      "categoria": "Cuidado Facial"
+    }
+  ]
+}
